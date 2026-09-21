@@ -12,21 +12,21 @@ title: Beyond Research
 
 <div class="third">
   <div class="image-container">
-    <a href="/images/hobbies/dsm2.jpg" class="image-popup">
-      <img src="/images/hobbies/dsm2.jpg" alt="Siming's personal photo">
+    <a href="/images/nailong1.jpg" class="image-popup">
+      <img src="/images/nailong1.jpg" alt="Siming's personal photo">
     </a>
   </div>
   <div class="image-container">
-    <a href="/images/hobbies/dsm3.jpg" class="image-popup">
-      <img src="/images/hobbies/dsm3.jpg" alt="Siming at the Forbidden City in Beijing">
+    <a href="/images/fengmian.png" class="image-popup">
+      <img src="/images/fengmian.png" alt="Siming at the Forbidden City in Beijing">
     </a>
     <div class="image-caption">
       <div class="caption-title">Forbidden City, Beijing</div>
     </div>
   </div>
   <div class="image-container">
-    <a href="/images/hobbies/dsm4.jpg" class="image-popup">
-      <img src="/images/hobbies/dsm4.jpg" alt="Siming's personal photo">
+    <a href="/images/wang.png" class="image-popup">
+      <img src="/images/wang.png" alt="Siming's personal photo">
     </a>
   </div>
 </div>
